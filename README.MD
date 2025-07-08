@@ -25,10 +25,10 @@
 ├─ .gitignore
 ├─ Dockerfile
 ├─ Images
-│  ├─ Architecture_RPS.png
-│  ├─ Process_Flow_RPS.png
-│  ├─ Sequence_Flow_RPS.png
-│  └─ System_Design_RPS.png
+│  ├─ Architecture_RPS1.png
+│  ├─ Process_Flow_RPS1.png
+│  ├─ Sequence_Flow_RPS1.png
+│  └─ System_Design_RPS1.png
 │─ rps_game.py
 │─ test_bug_cases_rps.py
 ├─ requirements.txt
