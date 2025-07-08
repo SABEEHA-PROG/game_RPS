@@ -29,9 +29,8 @@
 │  ├─ Process_Flow_RPS.png
 │  ├─ Sequence_Flow_RPS.png
 │  └─ System_Design_RPS.png
-├─ RPS
-│  ├─ rps_game.py
-│  └─ test_bug_cases_rps.py
+│─ rps_game.py
+│─ test_bug_cases_rps.py
 ├─ requirements.txt
 ├─ test_functionaltest_rps.py
 ├─ test_mocktest_rps.py
